@@ -7,7 +7,7 @@ by Shithi Maitra, Jr. Data Scientist
 - Gaining more control over a customer's life-cycle of taking services 
 - Gaining confidence that a data-backed, statistical, algorithmic approach is being followed
 
-*Note*: Some data are hidden as per org's data privacy policy
+*<strong>Note:</strong> Some data are hidden as per org's data privacy policy*
 
 ### Proposed Methodology
 
