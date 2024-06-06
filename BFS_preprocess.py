@@ -19,7 +19,7 @@ print()
 # read the above inputs
 print(str(tuples) + " " + str(1)) 
 for i in range(0, tuples):
-    print(from_scat[i]+" "+to_scats[i]) 
+    print(from_scat[i] + " " + to_scats[i]) 
 
 # service-pair (A - B) to mine shortest path (input to BFS)
 print("wash_&_iron" + " " + "refrigerator_repair_services")
