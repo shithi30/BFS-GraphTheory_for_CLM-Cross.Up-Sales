@@ -7,6 +7,8 @@ by Shithi Maitra, Jr. Data Scientist
 - Gaining more control over a customer's life-cycle of taking services 
 - Gaining confidence that a data-backed, statistical, algorithmic approach is being followed
 
+*Note*: Some data are hidden as per org's data privacy policy
+
 ### Proposed Methodology
 
 <img width="500" alt="ee4" src="https://github.com/shithi30/BFS-GraphTheory_for_CLM-Cross.Up-Sales/assets/43873081/a64d435b-4db3-4698-b339-9eb21bd6e6b1">
