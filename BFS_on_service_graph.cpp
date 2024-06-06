@@ -3,6 +3,12 @@
 #include <queue>
 #include <cstdlib>
 
+/*
+Cities are analogous to services, in the context of Sheba Platform Ltd.
+The analogy is for ease of understanding in a Graph Theory setting.
+Connected cities imply services taken consecutively. 
+*/
+
 #define white 1
 #define gray 2
 #define black 3
@@ -10,7 +16,7 @@
 using namespace std;
 
 int graph[1000][1000], path[5000];
-char connected_cities[1000][50], cities[1000][50], start_str[50], end_str[50];
+char connected_cities[1000][50], cities[1000][50], start_str[50], end_str[50]; 
 
 void BFS(int start, int end, int nodes, int *path_len)
 {
