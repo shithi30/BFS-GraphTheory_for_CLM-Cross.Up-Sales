@@ -1,4 +1,4 @@
-## A CLM Strategy for MX
+## A Marketplace CLM Strategy
 **by Shithi Maitra, Jr. Data Scientist**
 
 ### Objectives of the Study
