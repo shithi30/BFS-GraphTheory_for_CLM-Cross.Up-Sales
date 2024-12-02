@@ -28,8 +28,8 @@
 <img width="750" alt="ee4" src="https://github.com/shithi30/BFS-GraphTheory_for_CLM-Cross.Up-Sales/assets/43873081/4a6b21b4-7a6b-41a2-8c34-81ea75dcd563">
 <br><strong>Fig:</strong> Snippet of the BFS code and generation of output<br>
 
-### Action Points/Future Work 
-- Predicting with ML which customers are likely to return: http://mb.sheba.xyz/question/16969
+### Action Points & Directions
+- Predicting with ML which customers are likely to return, [here](http://mb.sheba.xyz/question/16969)
 - Determining the service they last took and defining a high-bucket service we want to take them to 
 - Making attempts of pitching them gradually along the optimized path
 
