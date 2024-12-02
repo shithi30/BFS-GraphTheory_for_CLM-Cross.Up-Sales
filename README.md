@@ -3,7 +3,7 @@
 
 ### Objectives of the Study
 - Designing an optimal journey of a customer from one defined service another desired service
-- Retaining a customer to the platform and promote X-selling
+- Retaining a customer to the platform and promote cross-selling
 - Gaining more control over a customer's life-cycle of taking services 
 - Gaining confidence that a data-backed, statistical, algorithmic approach is being followed
 
