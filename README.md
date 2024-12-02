@@ -30,7 +30,7 @@
 
 ### Action Points & Directions
 - Predicting with ML which customers are likely to return, [here](http://mb.sheba.xyz/question/16969)
-- Determining the service they last took and defining a high-bucket service we want to take them to 
+- Determining the service they last took and defining a high-bucket service we want them to buy
 - Making attempts of pitching them gradually along the optimized path
 
 
