@@ -14,7 +14,7 @@
 <img width="460" alt="ee4" src="https://github.com/shithi30/BFS-GraphTheory_for_CLM-Cross.Up-Sales/assets/43873081/a64d435b-4db3-4698-b339-9eb21bd6e6b1">
 <br><strong>Fig:</strong> Proposed process shown in flowchart<br><br>
 
-- Preprocessing the users' data to view customers' cross-selling tendencies from one ServCat to top-03 (or top-05) ServCats: http://mb.sheba.xyz/question/16912
+- [Preprocessing](http://mb.sheba.xyz/question/16912) the users' data to view customers' cross-selling tendencies from one ServCat to top-03 (or top-05) ServCats
 - Construct a bidirectional network graph as portraying the ServCats as nodes and the flexibility to move between ServCats as edges
 - Define the source ServCat (A) and a destination ServCat (B) 
 - Run a BFS(Breadth First Search) to find the optimal number of steps and path
