@@ -1,6 +1,8 @@
 ## A Marketplace CLM Strategy
 **by Shithi Maitra, Jr. Data Scientist**
 
+**Tech Stack:** Languages - `Python, C++`, Database - `MySQL`, Reporting - `MetaBase`
+
 ### Objectives of the Study
 - Designing an optimal journey of a customer from one defined service another desired service
 - Retaining a customer to the platform and promote cross-selling
