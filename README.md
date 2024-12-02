@@ -1,5 +1,5 @@
 ## A CLM Strategy for MX
-by Shithi Maitra, Jr. Data Scientist 
+**by Shithi Maitra, Jr. Data Scientist**
 
 ### Objectives of the Study
 - Designing an optimal journey of a customer from one defined service another desired service
@@ -7,7 +7,7 @@ by Shithi Maitra, Jr. Data Scientist
 - Gaining more control over a customer's life-cycle of taking services 
 - Gaining confidence that a data-backed, statistical, algorithmic approach is being followed
 
-*<strong>Note:</strong> Some data are hidden as per org's data privacy policy*
+*<strong>Note:</strong> Some data are hidden as per org's data privacy policy. *
 
 ### Proposed Methodology
 
