@@ -7,7 +7,7 @@
 - Gaining more control over a customer's life-cycle of taking services 
 - Gaining confidence that a data-backed, statistical, algorithmic approach is being followed
 
-*<strong>Note:</strong> Some data are hidden as per org's data privacy policy. *
+*<strong>Note:</strong> Some data are hidden as per privacy policy. Links inactive outside organization.*
 
 ### Proposed Methodology
 
